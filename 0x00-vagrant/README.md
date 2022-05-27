@@ -1,0 +1,1 @@
+The function of uname in linux
